@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "project-ui-clone",
+    "public": "src",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
