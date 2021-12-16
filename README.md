@@ -3,7 +3,7 @@
   Desenvolvendo a Homepage do Google
 </h3>
 <p align="center">
-    <img src="src/img/google.png" alt="Logo" height=460></a>
+    <img src="src/img/google.png" alt="Logo" height=430></a>
 
 
 ## :rocket: Tecnologias
